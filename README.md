@@ -27,7 +27,7 @@
 
 ### Installation
 For the easiest experience, use our standalone installer:
-1.  Navigate to the [Releases](https://github.com/YOUR_USERNAME/FaceLock/releases) page.
+1.  Navigate to the [Releases](https://github.com/freddieallance/FaceLock/releases) page.
 2.  Download the `FaceLock_Setup.exe`.
 3.  Run the installer (Supports "Run at Startup" configuration).
 
